@@ -8,13 +8,3 @@ Dataset Link: https://www.kaggle.com/competitions/moviegenres/overview
 
 • This repository consists of files required to deploy a **_Machine Learning Web App_** created with **_Flask_** on **_Azure_** platform.
 
-# web app:
-
-![web page](readme_resources/Movie-Genres-Predict-Model.png)
-![GIF](readme_resources/Movie-Genres-Predict-Model.gif)
-
-![Action Movie](readme_resources/action.png)
-![Comedy Movie](readme_resources/comedy.png)
-![Drama Movie](readme_resources/drama.png)
-
-• Please do ⭐ the repository, if it helped you in anyway.
